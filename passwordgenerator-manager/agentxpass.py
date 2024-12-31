@@ -7,7 +7,7 @@ lowercaseLetters ='abcdefghijklmnopqrstuvwxyz'
 specialLetters = '@.$#*'
 digits = '0123456789'
 
-    # Making then hashable
+    
 letterSets = [uppercaseLetters, lowercaseLetters, specialLetters, digits]
 max_length=len(uppercaseLetters+lowercaseLetters+specialLetters+digits)
     
